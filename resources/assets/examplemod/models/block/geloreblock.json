@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/bedrock",
+  "textures": {
+    "up": "examplemod:block/geloreblocktop",
+    "down": "examplemod:block/geloreblock",
+    "south": "examplemod:block/geloreblock",
+    "north": "examplemod:block/geloreblock",
+    "west": "examplemod:block/geloreblock",
+    "east": "examplemod:block/geloreblock"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {  "rolls": 2,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "examplemod:gelpickaxe"
+        }
+      ]
+    },
+    {  "rolls": 2,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:light_blue_wool"
+        }
+      ]
+    }
+  ]
+}
